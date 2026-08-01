@@ -40,5 +40,6 @@ yarn-error.*
 /ios
 /android
 
-# local planning
+# local planning / submission notes
 plan.md
+README.md
